@@ -1,0 +1,10 @@
+# PlaxTractBot
+Priming Microplastic Extraction Conditions by Utilizing Ferrofluids and Arduino IR Detection Methods. 
+
+Created by Impana Chimmalagi in 2021 for the Synopsys Science & Engineering Fair.
+
+https://docs.google.com/presentation/d/1Ry4SXg5hvjF1C9SAy_DfKFjAUrf53UnvpJpKAlFhIws/edit?usp=share_link
+https://youtu.be/5uYt8mZVEds
+https://docs.google.com/document/d/1kv3oSB2gn5UvnaqXBy-ne0oSiddQBvhLo5ghdzVM-QE/edit?usp=share_link
+
+In a world where almost anything can be replaced with plastic, microplastics are abundant in our daily lives. The average American ingests 74,000 microplastic particles annually, and with their harmful effects on human health, it is essential to prevent these tiny particles from continuously penetrating our lives. PlaxTractBot does exactly that: it accurately and efficiently detects and primes conditions for the extraction of different microplastics in water through the use of an affordable IR Sensor, ferrofluid, and an Arduino. PlaxTractBot has three major programmed components: an affordable IR sensor, a stirrer servo, and a ferrofluid peristaltic pump. The sensor detects microplastics by calculating and utilizing change in dust density values. The stirrer servo consists of a rotating arm attached to a stirrer which occasionally stirs the water, and the peristaltic pump dispenses ferrofluid based on how many microplastics were detected, magnetizing the microplastics. To test PlaxTractBot, different microplastics of common plastic objects were placed in the water, including milk carton caps, milk cartons, styrofoam, and water bottles. The results show that, overall, PlaxTractBot efficiently and accurately primed the majority of the microplastics (85%), and PlaxTractBot primed 96% of the microplastics in its most successful tests with the water bottle. Although the detection was not as accurate, it didn’t negatively affect the priming as PlaxTractBot only needed a general idea of how much ferrofluid to dispense. However, there are many improvements to be made to this device, but PlaxTractBot is the first affordable and working microplastic priming system!  
